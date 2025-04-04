@@ -1,4 +1,4 @@
-/* Thiết lập font chữ và căn chỉnh tổng thể */
+
 body {
 
     font-family: 'Arial', sans-serif;
@@ -9,7 +9,7 @@ body {
     text-align: center;
 }
 
-/* Tiêu đề chính */
+
 h1 {
     background-color: rgb(255, 241, 42);
     display: inline-block;
@@ -20,7 +20,6 @@ h1 {
     color: #333;
 }
 
-/* Danh sách sản phẩm */
 .product-list {
     list-style: none;
     padding: 0;
